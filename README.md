@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcinSzlachcic.
-- 👀 I’m a manager on my quest to become a developer.
+- 👀 I’m a manager on my quest to become an IT Project Manager, developer, tester.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to work on java projects
 - 📫 How to reach me? I believe you will find a way :)
